@@ -1,0 +1,150 @@
+* {
+    margin: 0;
+}
+
+/* Start head section */
+
+.heading {
+    overflow: hidden;
+}
+
+.left-heading {
+    background-color: blueviolet;
+    width: 30%;
+    height: 100px;
+    float: left;
+}
+
+.left-heading h1 {
+    text-align: center;
+}
+
+.right-heading {
+    background-color: rgb(29, 78, 214);
+    width: 70%;
+    height: 100px;
+    float: left;
+}
+
+.right-heading h1 {
+    text-align: center;
+}
+
+/* End head section */
+
+/* Start navigation */
+
+.navigation {
+    background-color: brown;
+    height: 100px;
+}
+
+.navigation h1 {
+    text-align: center;
+}
+
+/* End navigation */
+
+/* Start content */
+
+.content {
+    overflow: hidden;
+}
+
+/* ------------------------- */
+.left-content {
+    background-color: chartreuse;
+    width: 25%;
+    height: 400px;
+    float: left;
+}
+
+.left-content h1 {
+    text-align: center;
+}
+/* ----------------------------- */
+
+.middle-content {
+    background-color: rgb(187, 10, 231);
+    width: 50%;
+    height: 400px;
+    float: left;
+}
+
+
+.first-section {
+    height: 35%;
+    background-color: cadetblue;
+}
+
+.first-section h1 {
+    text-align: center;
+}
+/* ------------------------------------ */
+
+.second-section {
+    height: 30%;
+    background-color: rgb(241, 219, 18);
+    overflow: hidden;
+}
+
+.second-section h1 {
+    text-align: center;
+}
+
+.left {
+    background-color: magenta;
+    width: 50%;
+    float: left;
+    height: 100%;
+}
+
+.left h1 {
+    text-align: center;
+}
+
+.right {
+    background-color: darkslateblue;
+    width: 50%;
+    float: left;
+    height: 100%;
+}
+
+.right h1 {
+    text-align: center;
+}
+
+.third-section {
+    height: 35%;
+    background-color: cadetblue;
+}
+
+.third-section h1 {
+    text-align: center;
+}
+
+.right-content {
+    background-color: rgb(231, 235, 20);
+    width: 25%;
+    height: 400px;
+    float: left;
+}
+
+.right-content h1 {
+    text-align: center;
+}
+
+/* End content */
+
+/* Start footer */
+
+.footer {
+    background-color: darkcyan;
+    height: 100px;
+}
+
+.footer h1 {
+    text-align: center;
+}
+
+/* End footer */
